@@ -107,7 +107,11 @@ document.getElementById('exportBtn').onclick=exportSite;document.getElementById(
 // Allow exported file to use embedded state if present
 if(window.__PORTFOLIO_STATE__){data=window.__PORTFOLIO_STATE__}
 render();
-
+ 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="config.js"></script>
+<script> 
+ 
 document.getElementById('loginBtn').onclick=async()=>{const email=document.getElementById('loginEmail').value.trim();const password=document.getElementById('loginPassword').value;const msg=document.getElementById('loginMsg');msg.textContent='Signing in…';const {error}=await sb.auth.signInWithPassword({email,password});if(error){msg.textContent=error.message;return;}await initAdmin()};
 document.getElementById('publishBtn').onclick=async()=>{const b=document.getElementById('publishBtn');b.disabled=true;b.textContent='Publishing…';try{await publishCloud()}catch(e){alert('Publish failed: '+(e.message||e))}finally{b.disabled=false;b.textContent='Publish'}};
 sb.auth.onAuthStateChange((_event,session)=>{if(session){initAdmin()}});
@@ -115,4 +119,5 @@ initAdmin();
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="config.js"></script>
+<script>
 </body></html>
